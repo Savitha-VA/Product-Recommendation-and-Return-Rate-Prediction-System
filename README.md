@@ -1,6 +1,6 @@
 #  Product Recommendation & Return Prediction System using Online Retail Dataset
 
-This project is built using the **Online Retail dataset (3600+ records)** to explore concepts in data mining and create a simple **product recommendation** and **return prediction system**.
+This project is built using the **Online Retail dataset** to explore concepts in data mining and create a simple **product recommendation** and **return prediction system**.
 ---
 
 ##  Dataset Attributes
@@ -37,7 +37,7 @@ This project is built using the **Online Retail dataset (3600+ records)** to exp
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 - **Python**
 - **Pandas, NumPy** for preprocessing
 - **Matplotlib, Seaborn** for visualization
